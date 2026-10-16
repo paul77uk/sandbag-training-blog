@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/friday-16th-october-2026/","dg-note-properties":{}}
 ---
 
-📊 1. Sandbag Bearhug Box Squats**
+📊 1. Sandbag Bearhug Box Squats
 
 > `[WU]` 50kg x 4  
 > `[WU]` 70kg x 4  
@@ -15,6 +15,11 @@ _Went without box/ bag on last squat and may just do normal bearhug squats in fu
 ---
 
 📺 **70kg Sandbag Bearhug Box Squat x 6**
+
+[](https://youtube.com/shorts/EZDS-INa1Lw?si=z3ViNv_r8xSHjspR)
+
+<iframe src="[https://youtube.com](https://youtube.com/shorts/EZDS-INa1Lw?si=z3ViNv_r8xSHjspR)" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 
