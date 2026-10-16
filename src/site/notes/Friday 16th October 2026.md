@@ -2,10 +2,24 @@
 {"dg-publish":true,"permalink":"/friday-16th-october-2026/","dg-note-properties":{"cssclasses":["clean-layout"]}}
 ---
  
-<style> 
-.markdown-preview-view, .markdown-rendered, .content { padding-top: 8px !important; margin-top: 8px !important; } 
-h1, .note-title { margin-top: 8px !important; } 
+<style>
+  /* Desktop Layout: Sets a clean 8px gap at the very top */
+  @media (min-width: 769px) {
+    .content, .markdown-rendered, main, [class*="content"] {
+      margin-top: 8px !important;
+      padding-top: 0px !important;
+    }
+  }
+
+  /* Mobile Layout: Keeps your larger safety gap so titles don't overlap */
+  @media (max-width: 768px) {
+    .content, .markdown-rendered, main, [class*="content"] {
+      margin-top: 50px !important;
+      padding-top: 10px !important;
+    }
+  }
 </style>
+
 📊 1. Sandbag Bearhug Box Squats
 
 > `[WU]` 50kg x 4  
