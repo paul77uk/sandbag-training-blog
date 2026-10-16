@@ -4,7 +4,7 @@
  
 <style> 
 .markdown-preview-view, .markdown-rendered, .content { padding-top: 8px !important; margin-top: 8px !important; } 
-h1, .note-title { margin-top: 10px !important; } 
+h1, .note-title { margin-top: 8px !important; } 
 </style>
 📊 1. Sandbag Bearhug Box Squats
 
