@@ -61,5 +61,3 @@ _Went without box/ bag on last squat and may just do normal bearhug squats in fu
   src="https://youtube.com/embed//u9YuGsi4ZUs?feature=share" 
   loading="lazy" >
 </iframe>
-
----
