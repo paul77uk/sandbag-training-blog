@@ -25,7 +25,8 @@ _Went without box/ bag on last squat and may just do normal bearhug squats in fu
   allowfullscreen="true">
 </iframe>
 
-<iframe src="https://youtube.com/embed/EZDS-INa1Lw?feature=share" title="Video Title" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
+<iframe width="100%" 
+  height="450" src="https://youtube.com/embed/EZDS-INa1Lw?feature=share" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
 
 ---
 
