@@ -14,7 +14,7 @@
   /* Mobile Layout: Keeps your larger safety gap so titles don't overlap */
   @media (max-width: 768px) {
     .content, .markdown-rendered, main, [class*="content"] {
-      margin-top: 30px !important;
+      margin-top: 20px !important;
       padding-top: 10px !important;
     }
   }
