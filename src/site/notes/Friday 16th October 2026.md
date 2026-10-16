@@ -30,7 +30,7 @@ _Went without box/ bag on last squat and may just do normal bearhug squats in fu
 <iframe 
   width="100%" 
   height="450" 
-  src="https://youtube.com/embed/yLhvSoC_umo?si=i6zXSuZZtlvvIM5l" 
+  src="https://youtube.com/embed/yLhvSoC_umo" 
   loading="lazy" >
 </iframe>
 
@@ -50,6 +50,13 @@ _Went without box/ bag on last squat and may just do normal bearhug squats in fu
 > `[SET 1]` 50kg x 7  
 > `[SET 2]` 70kg x 2  
 > `[SET 3]` 50kg x 8
+
+<iframe 
+  width="100%" 
+  height="450" 
+  src="https://youtube.com/embed//u9YuGsi4ZUs?feature=share" 
+  loading="lazy" >
+</iframe>
 
 ---
 
