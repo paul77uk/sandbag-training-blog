@@ -29,15 +29,6 @@ _Went without box/ bag on last squat and may just do normal bearhug squats in fu
 
 📺 **50kg Sandbag Bearhug Box Squat x 9**
 
-
-  <!-- 2. The Premium Substack-style Crisp Overlay Cover Cover -->
-  <div id="yt-cover" onclick="document.getElementById('yt-cover').style.display='none';" style="position: absolute; top:0; left:0; width:100%; height:100%; background: url('https://youtube.com/embed/EZDS-INa1Lw') center/cover no-repeat; z-index: 2; cursor: pointer; display: flex; align-items: center; justify-content: center;">
-    
-    <!-- The Minimalist Floating Play Button Icon Overlay -->
-    
-</div>
-
-
 ---
 
 **📊 2. Sandbag Floor Press**
