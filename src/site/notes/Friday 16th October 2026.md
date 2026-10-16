@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/friday-16th-october-2026/","dg-note-properties":{"cssclasses":["clean-layout"]}}
 ---
  
-<style> .markdown-preview-view, .markdown-rendered, .content { padding-top: 0px !important; margin-top: 0px !important; } h1, .note-title { margin-top: 10px !important; } </style>
+<style> 
+.markdown-preview-view, .markdown-rendered, .content { padding-top: 0px !important; margin-top: 0px !important; } 
+h1, .note-title { margin-top: 10px !important; } 
+</style>
 📊 1. Sandbag Bearhug Box Squats
 
 > `[WU]` 50kg x 4  
