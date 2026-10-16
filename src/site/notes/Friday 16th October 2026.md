@@ -51,6 +51,10 @@ _Went without box/ bag on last squat and may just do normal bearhug squats in fu
 > `[SET 2]` 70kg x 2  
 > `[SET 3]` 50kg x 8
 
+---
+
+📺 **50kg Sandbag-to-Shoulder x 8**
+
 <iframe 
   width="100%" 
   height="450" 
@@ -59,5 +63,3 @@ _Went without box/ bag on last squat and may just do normal bearhug squats in fu
 </iframe>
 
 ---
-
-📺 **50kg Sandbag-to-Shoulder x 8**
